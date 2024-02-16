@@ -5,4 +5,4 @@ input[1] = least significant byte of sensor 1
 input[2] = most significant byte of sensor 2  
 input[3] = least significant byte of sensor 2**
 
-With these known, we get a fraction of how much the pedal is pressed, and then calculate the corresponding torque value. 
+With these known, we get to know how much the pedal is pressed, and then calculate the corresponding torque value. Also, there are some safety features added.
